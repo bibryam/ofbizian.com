@@ -1,0 +1,2 @@
+# ofbizian.com
+Blog artifacts
